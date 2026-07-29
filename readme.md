@@ -1,6 +1,6 @@
 # Performance Data Pipeline
 
-This project demonstrates an end-to-end data workflow using Python, SQL, and Tableau to transform customer support data into a star schema and an interactive operational performance dashboard.
+This project demonstrates an end-to-end data workflow using python, sql, and tableau to transform customer support data into a star schema and an interactive operational performance dashboard.
 
 **Workflow**
 
